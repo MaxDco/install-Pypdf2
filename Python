@@ -1,0 +1,9 @@
+время = 12
+if время <12:
+    print("Верно")
+elif время < 17:
+    print("не верно")
+elif время < 21:
+     print("yes")      
+else: 
+    print("no")
